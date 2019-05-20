@@ -1,0 +1,12 @@
+enum Menu {
+    PRINCIPAL,
+    CREATION,
+    MATIERE,
+    CHOIX_EXERCICE,
+    PERSONNALISATION,
+    RESOLUTION,
+    FIGHT,
+    WIN,
+    LOSE,
+    AUCUN
+}
